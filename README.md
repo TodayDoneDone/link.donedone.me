@@ -1,2 +1,3 @@
-# link.donedone.me
-donedone link shortener
+# DoneDone Link Shortener
+
+👉 link.donedone.me/{shorten-url}
